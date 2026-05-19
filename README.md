@@ -20,4 +20,5 @@ React | Vite | Tailwind CSS | Framer Motion | Firebase/Supabase | OpenAI API | C
 Dynamic Tech Squad — Capaciti Tech Career Accelerator Bootcamp (2026)
 
 ## Links
-[Add your live app link here] | [Add your prototype link here]
+App link: https://dynacademy.base44.app/login?from_url=https%3A%2F%2Fdynacademy.base44.app%2Fdashboard 
+Prototype link: https://app.visily.ai/projects/2d5a48c9-2b4f-42fa-be1c-334bf4c6d66f/boards/2609451/presenter?play-mode=All+screens 
